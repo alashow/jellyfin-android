@@ -111,6 +111,7 @@ dependencies {
     // UI
     implementation(Dependencies.UI.constraintLayout)
     implementation(Dependencies.UI.material)
+    implementation(Dependencies.UI.palette)
     implementation(Dependencies.UI.webkitX)
     implementation(Dependencies.UI.exoPlayer)
     implementation(Dependencies.UI.modernAndroidPreferences)
